@@ -71,6 +71,7 @@ No known bugs at this time.
 
 - Alexa Orrico - [Github](https://github.com/alexaorrico) / [Twitter](https://twitter.com/alexa_orrico)  
 - Thomas Wang - [Github](https://github.com/thomaspwang) / [Twitter](https://twitter.com/thpwang)
+- Hezekiah Elisha - [Github] (https://github.com/Hezekiah-Elisha) / [Twitter](https://twitter.com/_hezekiahelisha)
 
 ###### Version 3
 
